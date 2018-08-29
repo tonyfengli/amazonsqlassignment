@@ -1,0 +1,24 @@
+{
+  "name": "amazonsqlassignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonyfengli/amazonsqlassignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tonyfengli/amazonsqlassignment/issues"
+  },
+  "homepage": "https://github.com/tonyfengli/amazonsqlassignment#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^6.2.0",
+    "mysql": "^2.16.0"
+  }
+}
